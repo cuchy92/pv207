@@ -7,6 +7,7 @@
   <version>1.0</version>
   <packaging>kjar</packaging>
   <name>Hotel</name>
+  <description>Team project, BPM 2017</description>
   <repositories>
     <repository>
       <id>guvnor-m2-repo</id>
